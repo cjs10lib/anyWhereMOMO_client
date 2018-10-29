@@ -1,0 +1,6 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "anyWhereMomo_client",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

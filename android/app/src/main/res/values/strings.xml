@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">anyWhereMomo_client</string>
+    <string name="title_activity_main">anyWhereMomo_client</string>
+    <string name="package_name">com.anyWhereMomo_client.app</string>
+    <string name="fileprovider_authority">com.anyWhereMomo_client.app.fileprovider</string>
+    <string name="custom_url_scheme">com.anyWhereMomo_client.app</string>
+</resources>

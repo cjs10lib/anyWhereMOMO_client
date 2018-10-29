@@ -1,6 +1,8 @@
 {
   "name": "anyWhereMomo_client",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular",
   "pro_id": "e5d241fa"
 }
